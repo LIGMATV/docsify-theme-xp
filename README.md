@@ -16,7 +16,7 @@ Bring back the old Luna XP theme in Docsify.
 
 > [!NOTE]
 > Just to be safe, please use your downloaded version.
-> You can download the navbar-fixed.css <a href="https://cdn.jsdelivr.net/gh/LIGMATV/docsify-theme-xp@latest/xp.css" download>here</a>.
+> You can download the xp.css <a href="https://cdn.jsdelivr.net/gh/LIGMATV/docsify-theme-xp@latest/xp.css" download>here</a>.
 
 # Showcase
 
