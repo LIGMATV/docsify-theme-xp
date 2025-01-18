@@ -1,3 +1,7 @@
+> [!CAUTION]
+> # This repository has been moved to GitLab with the latest commits not available in this repository. <sup>[?](https://gitlab.com/LIGMATV)</sup>
+> https://gitlab.com/LIGMATV/docsify-theme-xp
+
 # Docsify Theme XP [Preview](https://docsify-theme-xp.vercel.app/)
 Bring back the old Luna XP theme in Docsify.
 
